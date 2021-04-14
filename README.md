@@ -18,7 +18,7 @@ python3 training.py
 ---
 
 1. Models
-    - TEST_CLASSIFICATION - classification model ( swiss roll dataset)
+    - TEST_CLASS_ROLL - classification model ( swiss roll dataset)
     - TEST_VAE - vae model 
         - results - recon_x_train.png ( reconstructed x_train )
         - results - recon_x_test.png ( reconstructed x_test )
